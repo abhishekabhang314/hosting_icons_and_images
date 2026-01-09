@@ -1,0 +1,13 @@
+.icon-img {
+  width: 48px;
+  height: auto;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+input.form-control {
+  font-size: 12px;
+  cursor: pointer;
+}
