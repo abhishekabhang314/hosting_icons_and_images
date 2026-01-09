@@ -5,6 +5,7 @@
 
 .card {
   border-radius: 12px;
+  background-color: #000;
 }
 
 input.form-control {
